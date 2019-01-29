@@ -1,2 +1,2 @@
 teacher = "Rak"
-puts ""
+puts "My favorite teacher is" +teacher 
